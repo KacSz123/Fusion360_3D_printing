@@ -1,2 +1,2 @@
-# Fusion360_3D_printing
-3D models for 3D printing in FDM 
+# dice (d6)
+First 3D model of dice (d6).
